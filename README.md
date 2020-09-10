@@ -7,7 +7,7 @@
   <strong>Book's Code</strong>
 </div>
 <div align="center">
-  A <code>4kb</code> Source code for the book HornetQ messaging developers guide
+   Source code for the book HornetQ messaging developers guide
 </div>
 
 <br />
