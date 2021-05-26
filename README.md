@@ -4,7 +4,7 @@
   :steam_locomotive::train::train::train::train::train:
 </div>
 <div align="center">
-  <strong>Book's Code</strong>
+  <strong>HornetQ Messaging Developers Guide Book Code</strong>
 </div>
 <div align="center">
    Source code for the book HornetQ messaging developers guide
@@ -13,48 +13,9 @@
 <br />
 
 
-<div align="center">
-  <h3>
-    <a href="https://choo.io">
-      Website
-    </a>
-    <span> | </span>
-    <a href="https://github.com/choojs/choo-handbook">
-      Handbook
-    </a>
-    <span> | </span>
-    <a href="https://github.com/YerkoPalma/awesome-choo">
-      Ecosystem
-    </a>
-    <span> | </span>
-    <!-- <a href="https://github.com/trainyard/choo-cli"> -->
-    <!--   CLI -->
-    <!-- </a> -->
-    <!-- <span> | </span> -->
-    <a href="https://github.com/choojs/choo/blob/master/.github/CONTRIBUTING.md">
-      Contributing
-    </a>
-    <span> | </span>
-    <a href="https://www.reddit.com/r/choojs/">
-      Reddit
-    </a>
-    <span> | </span>
-    <a href="https://webchat.freenode.net/?channels=choo">
-      Chat
-    </a>
-  </h3>
-</div>
-
-<div align="center">
-  <sub>The little framework that could. Built with ❤︎ by
-  <a href="https://twitter.com/yoshuawuyts">Yoshua Wuyts</a> and
-  <a href="https://github.com/choojs/choo/graphs/contributors">
-    contributors
-  </a>
-</div>
 
 ## Table of Contents
-- [Features](#features)
+- [Why this repository?](#why?)
 - [Example](#example)
 - [Philosophy](#philosophy)
 - [Events](#events)
@@ -69,7 +30,7 @@
 - [See Also](#see-also)
 - [Support](#support)
 
-## Features
+## why?
 - __minimal size:__ weighing `4kb`, Choo is a tiny little framework
 - __event based:__ our performant event system makes writing apps easy
 - __small api:__ with only 6 methods there's not much to learn
