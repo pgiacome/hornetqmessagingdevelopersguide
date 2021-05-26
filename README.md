@@ -30,7 +30,7 @@
 - [See Also](#see-also)
 - [Support](#support)
 
-## why?
+## Why this repository?
 - __minimal size:__ weighing `4kb`, Choo is a tiny little framework
 - __event based:__ our performant event system makes writing apps easy
 - __small api:__ with only 6 methods there's not much to learn
